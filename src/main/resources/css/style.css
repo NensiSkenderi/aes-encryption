@@ -1,0 +1,37 @@
+.anchor {
+    -fx-background-image: url('/images/bg1.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-background-position: center;
+}
+
+.anchor2 {
+    -fx-background-color: rgba(0, 0, 0, 0.87);
+}
+
+.text-field {
+    -fx-border-color: #525053;
+    -fx-text-inner-color: #2e9b31;
+    -fx-font-size: 15px;
+}
+
+.encrypt_button {
+    -fx-background-image: url('../images/encrypt.png');
+    -fx-background-color: #2e9b31;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 50% 20%;
+}
+
+.decrypt_button {
+    -fx-background-image: url('../images/decrypt.png');
+    -fx-background-color: #2e9b31;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 50% 20%;
+}
+
+.reset_button {
+    -fx-background-image: url('../images/reset.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: #489CE1;
+    -fx-background-position: 50% 20%;
+}
