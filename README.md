@@ -17,8 +17,6 @@ It is essential for government computer security, cybersecurity and electronic d
   * JFoenix (JavaFX material design library for beautiful GIU) http://www.jfoenix.com/
   
   #### NOTE - The GUI is created using SceneBuilder
-  
-## Usage
 
 ## Contact 
 Nensi Skenderi - nensiskenderi20@gmail.com
