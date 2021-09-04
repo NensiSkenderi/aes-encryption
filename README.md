@@ -1,4 +1,4 @@
-# aes-encryption
+# AES Encryption
 
 ## About The Project
 
