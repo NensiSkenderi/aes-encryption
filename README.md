@@ -2,7 +2,7 @@
 
 ## About The Project
 
-The application which uses AES algorithm to encrypt/decrypt data.
+This is an application which uses AES algorithm to encrypt/decrypt data.
 
 #### Advanced Encryption Standard 
 AES is a symmetric type of encryption, as it uses the same key to both encrypt and decrypt data.
